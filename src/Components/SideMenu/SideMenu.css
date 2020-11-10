@@ -1,0 +1,38 @@
+.SideMenu{
+    color: aliceblue;
+    height: 100%;
+    /* width: 30%; */
+    width: 585px;
+    position: fixed;
+    background-color: black;
+    z-index: 1;
+    text-align:  center;
+  }
+  
+.SideHeader{
+  margin-top: 5em;
+  align-self: center;
+  margin-bottom: 5em
+}
+
+  .profile{
+    font-size: 18px;
+    margin-left: 4em;
+    margin-right: 4em;
+  }
+
+.Contact{
+  font-size: 18px;
+  margin-top: 4em;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+.progressDiv{
+  margin-top: 4em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}

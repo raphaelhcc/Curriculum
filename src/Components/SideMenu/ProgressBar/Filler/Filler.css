@@ -1,0 +1,5 @@
+.filler{
+    background: white;
+    height: 100%;
+    transition: width .6s ease-in-out;
+}
